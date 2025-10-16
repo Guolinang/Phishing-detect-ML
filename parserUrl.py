@@ -1,9 +1,12 @@
 from  urllib.parse import urlparse 
 import re
 from urllib.parse import unquote
+from datetime import datetime
 import urllib.request
 import time
-
+import dns.resolver
+import socket
+import ipwhois 
 
 features = {
     # URL features
@@ -264,7 +267,8 @@ def count_symbols(string):
             case '%': features['params_percent'] += 1
 
     features['params_length'] = len(params_string)
-    print(features)
+    asn_ip(domain_string)
+    time_domain(domain_string)
 
 def check_email_for_features(url):    
     decoded_url = unquote(url)
@@ -286,13 +290,61 @@ def parse_string(string):
     features['email_in_url'] = check_email_for_features(string)
     features['time_response'] = measure_time_response(string)
 
+def spf_domain(string):
+    try:
+        res=dns.resolver.resolve(string,'txt')
+        features['domain_spf']=1
+        return 
+    except:
+        features['domain_spf']=0
+        return 
+    
+def asn_ip(string):
+    ip=socket.gethostbyname(string)
+    print(ip)
+    try:
+        obj=ipwhois.IPWhois(ip)
+        features["asn_ip"]=1
+        return 
+    except:
+        features["asn_ip"]=0
+        return 
+
+def time_domain(string):
+    try:
+         domain_info = whois.whois(domain)
+         features['time_domain_activation']=domain_info.creation_data
+         features['time_domain_expiration']=domain_info.expiration_date
+         return
+    except:
+         features['time_domain_activation']=-1
+         features['time_domain_expiration']=-1
+         return
+
+
+#qty_ip_resolved
+#qty_nameservers
+#qty_mx_servers
+#ttl_hostname
+#tls_ssl_certificate
+#qty_redirects
+#url_google_index
+#domain_google_index
+#url_shortened
+
+
+
+string="https://www.kaggle.com/datasets/mdsultanulislamovi/phishing-website-detection-datasets?select=dataset2.csv"
+count_symbols(string)
+
+#spf_domain("https://www.kaggle.com/datasets/mdsultanulislamovi/phishing-website-detection-datasets?select=dataset2.csv")
+#asn_ip("https://www.kaggle.com/datasets/mdsultanulislamovi/phishing-website-detection-datasets?select=dataset2.csv")
 
 
 
 
-print(measure_time_response("https://www.kaggle.com/datasets/mdsultanulislamovi/phishing-website-detection-datasets?select=dataset2.csv"))
-
-
+#   pip install python-whois
+#   pip install dnspython
 
    
         
