@@ -288,6 +288,9 @@ def find_email(url):
 
 def measure_time_response(url):
     start_time = time.time()
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    }
     try : 
         urllib.request.urlopen(url, timeout=10)
     except Exception as e:
@@ -328,11 +331,14 @@ def spf_domain(domain):
         return
     
 def asn_ip(string):
-    ip=socket.gethostbyname(string)
     
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    }
     try:
+        ip=socket.gethostbyname(string)
         url = f"https://api.hackertarget.com/aslookup/?q={ip}"
-        response = requests.get(url, timeout=10)
+        response = requests.get(url,headers=headers, timeout=10)
         data = response.text.strip()
         features["asn_ip"]=int(data.split(",")[1].strip('"'))
          
@@ -432,8 +438,11 @@ def tls_ssl_certificate(domain):
         return
 
 def qty_redirects(url):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    }
     try:
-        response = requests.get(url, allow_redirects=True, timeout=10)
+        response = requests.get(url,headers=headers ,allow_redirects=True, timeout=10)
         features['qty_redirects'] = len(response.history)
         return
     except Exception as e:
@@ -480,8 +489,12 @@ def domain_google_index(domain):
         return
 
 def url_shortened(url):
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    }
+    
     try:
-        response = requests.head(url, allow_redirects=True, timeout=10)
+        response = requests.head(url,headers=headers, allow_redirects=True, timeout=10)
         if  (response.url == url):
            features["url_shortened"]=0
            return
@@ -539,7 +552,6 @@ def server_client_domain(url):
 def parse_string(string):
     parts = urlparse(string)
     domain_string=parts.hostname
-
     count_symbols(string)
     features['email_in_url'] = find_email(string)
     features['time_response'] = measure_time_response(string)
