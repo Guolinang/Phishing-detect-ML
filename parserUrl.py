@@ -8,10 +8,13 @@ import time
 import dns.resolver
 import dns.rdatatype
 from googlesearch import search
+import tldextract
+from typing import Union, Dict, List
 import ssl
 import whois
 import requests
 from ping3 import ping
+import tldextract
 
 features = {
     # URL features
@@ -32,7 +35,7 @@ features = {
     "url_hash": 0,
     "url_dollar": 0,
     "url_percent": 0,
-    "url_tld": 0,
+    "qty_tld_url": 0,
     "len_url": 0,
     
     # Domain features
@@ -55,6 +58,7 @@ features = {
     "domain_percent": 0,
     "domain_vowels": 0,
     "len_domain": 0,
+    "domain_in_ip": 0,
     "server_client_domain": 0,
     
     # Directory features
@@ -132,8 +136,7 @@ features = {
     "qty_redirects": 0,
     "url_google_index": 0,
     "domain_google_index": 0,
-    "url_shortened": 0,
-    "phishing": 0
+    "url_shortened": 0    
 }
 
 def count_symbols(string):
@@ -149,6 +152,7 @@ def count_symbols(string):
         directory_string = ""
     file_string = path.split('/')[-1] if path and path != '/' else ""
     params_string = parts.query
+
 
     # Для URL
     for char in url_string:
@@ -295,15 +299,33 @@ def measure_time_response(url):
 
 
 
-def spf_domain(string):
+def spf_domain(domain):
+    resolver = dns.resolver.Resolver()
+    resolver.nameservers = ['8.8.8.8', '8.8.4.4'] 
+    resolver.timeout = 10  
     try:
-        res=dns.resolver.resolve(string,'txt')
-        features['domain_spf']=1
-        return 
+        answers = resolver.resolve(domain, 'TXT')
+        
+        spf_found = False
+        for rdata in answers:
+            txt_record = ''.join([s.decode('utf-8') for s in rdata.strings])
+            if txt_record.startswith('v=spf1'):
+                spf_found = True
+                break
+
+        if spf_found:
+            features['domain_spf'] = 1
+        else:
+            features['domain_spf'] = 0
+        return
+        
+    except dns.resolver.NoAnswer:
+        features['domain_spf'] = 0
+        return
     except Exception as e:
-        print(e)  
-        features['domain_spf']=0
-        return 
+        features['domain_spf'] = 0
+        print(e)
+        return
     
 def asn_ip(string):
     ip=socket.gethostbyname(string)
@@ -315,25 +337,33 @@ def asn_ip(string):
         features["asn_ip"]=int(data.split(",")[1].strip('"'))
          
     except Exception as e:
-        print(e)     
+        print(e) 
         features["asn_ip"]=-1
         return 
 
 def time_domain(string):
     try:         
-            
-         domain_info = whois.whois(string)
-         createDate=domain_info.creation_date.replace(tzinfo=None)
-         expiredDate=domain_info.expiration_date[0].replace(tzinfo=None)
-         today=datetime.now().replace(tzinfo=None)
-         features['time_domain_activation']=(today-createDate).days
-         features['time_domain_expiration']=(expiredDate-today).days
-         return
+        domain_info = whois.whois(string)
+        
+        if isinstance(domain_info.creation_date, list):
+            createDate = domain_info.creation_date[0].replace(tzinfo=None)
+        else:
+            createDate = domain_info.creation_date.replace(tzinfo=None)        
+        if isinstance(domain_info.expiration_date, list):
+            expiredDate = domain_info.expiration_date[0].replace(tzinfo=None)
+        else:
+            expiredDate = domain_info.expiration_date.replace(tzinfo=None)
+        
+        today = datetime.now().replace(tzinfo=None)        
+        features['time_domain_activation'] = (today - createDate).days
+        features['time_domain_expiration'] = (expiredDate - today).days
+        return
+        
     except Exception as e:
-         print(e)         
-         features['time_domain_activation']=-1
-         features['time_domain_expiration']=-1
-         return
+        print(e)         
+        features['time_domain_activation'] = -1
+        features['time_domain_expiration'] = -1
+        return
     
 def qty_ip_resolved(domain):      
     try:
@@ -463,14 +493,59 @@ def url_shortened(url):
         print(e)
         return 
 
+def domain_in_ip(domain):
+    ipv4_pattern = r'^(\d{1,3}\.){3}\d{1,3}$'
+    ipv6_pattern = r'^([0-9a-fA-F]{1,4}:){7}[0-9a-fA-F]{1,4}$|^::1$|^::$'
+    if re.match(ipv6_pattern, domain) or re.match(ipv4_pattern, domain):
+        features["domain_in_ip"]=1
+    else:
+        features["domain_in_ip"]=0
+
+def qty_tld_url(url):
+    try:
+        extracted = tldextract.extract(url)
+        tld = extracted.suffix
+        
+        if not tld:
+            features["qty_tld_url"] = 0
+            return
+        
+        tld_parts = tld.split('.')
+        features["qty_tld_url"] = len(tld_parts)
+        return
+        
+    except Exception as e:
+        features["qty_tld_url"] = 0
+        print(e)
+        return
+
+def server_client_domain(url):
+    try:
+        extracted = tldextract.extract(url)
+        domain = extracted.domain.lower()
+        
+        if 'server' in domain or 'client' in domain:
+            features["server_client_domain"] = 1
+            return
+        else:
+            features["server_client_domain"] = 0
+            return
+            
+    except Exception as e:
+        features["server_client_domain"] = 0
+        print(e)
+        return
+
 def parse_string(string):
     parts = urlparse(string)
     domain_string=parts.hostname
 
-    count_symbols("string")
+    count_symbols(string)
     features['email_in_url'] = find_email(string)
     features['time_response'] = measure_time_response(string)
-
+    server_client_domain(string)
+    qty_tld_url(string)
+    domain_in_ip(domain_string)
     spf_domain(domain_string)
     asn_ip(domain_string)
     time_domain(domain_string)
@@ -483,7 +558,7 @@ def parse_string(string):
     url_google_index(string)
     domain_google_index(domain_string)
     url_shortened(string)
-    return
+    return features
 
 
 
