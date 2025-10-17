@@ -138,8 +138,10 @@ def dict_to_vector(features):
 
 
 model = joblib.load('model.joblib')
-url="https://chat.deepseek.com/a/chat/s/423ff76d-4042-4a17-b9bd-a328353c4c44"
+url="http://wave.progressfilm.co.uk/time3/?logon=myposte"
 feature=parserUrl.parse_string(url)
 vector = dict_to_vector(feature)
 result = model.predict([vector])
 print(f"Результат: {result}")
+
+#Laaaab\Scripts\Activate.ps1
