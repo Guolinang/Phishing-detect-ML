@@ -1,12 +1,17 @@
 from  urllib.parse import urlparse 
 import re
-from urllib.parse import unquote
+from urllib.parse import unquote, quote
 from datetime import datetime
 import urllib.request
+import socket
 import time
 import dns.resolver
-import socket
-import ipwhois 
+import dns.rdatatype
+from googlesearch import search
+import ssl
+import whois
+import requests
+from ping3 import ping
 
 features = {
     # URL features
@@ -119,7 +124,7 @@ features = {
     "asn_ip": 0,
     "time_domain_activation": 0,
     "time_domain_expiration": 0,
-    "qty_ip_resolve": 0,
+    "qty_ip_resolved": 0,
     "qty_nameservers": 0,
     "qty_mx_servers": 0,
     "ttl_hostname": 0,
@@ -267,10 +272,11 @@ def count_symbols(string):
             case '%': features['params_percent'] += 1
 
     features['params_length'] = len(params_string)
-    asn_ip(domain_string)
-    time_domain(domain_string)
+    
 
-def check_email_for_features(url):    
+
+
+def find_email(url):    
     decoded_url = unquote(url)
     email_pattern = r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'    
     emails_found = re.findall(email_pattern, decoded_url)    
@@ -280,71 +286,214 @@ def measure_time_response(url):
     start_time = time.time()
     try : 
         urllib.request.urlopen(url, timeout=10)
-    except:
-        return 10
+    except Exception as e:
+        print(e)  
+        return -1
     end_time = time.time()
     return (end_time - start_time) 
 
-def parse_string(string):
-    count_symbols("string")
-    features['email_in_url'] = check_email_for_features(string)
-    features['time_response'] = measure_time_response(string)
+
+
 
 def spf_domain(string):
     try:
         res=dns.resolver.resolve(string,'txt')
         features['domain_spf']=1
         return 
-    except:
+    except Exception as e:
+        print(e)  
         features['domain_spf']=0
         return 
     
 def asn_ip(string):
     ip=socket.gethostbyname(string)
-    print(ip)
+    
     try:
-        obj=ipwhois.IPWhois(ip)
-        features["asn_ip"]=1
-        return 
-    except:
-        features["asn_ip"]=0
+        url = f"https://api.hackertarget.com/aslookup/?q={ip}"
+        response = requests.get(url, timeout=10)
+        data = response.text.strip()
+        features["asn_ip"]=int(data.split(",")[1].strip('"'))
+         
+    except Exception as e:
+        print(e)     
+        features["asn_ip"]=-1
         return 
 
 def time_domain(string):
-    try:
-         domain_info = whois.whois(domain)
-         features['time_domain_activation']=domain_info.creation_data
-         features['time_domain_expiration']=domain_info.expiration_date
+    try:         
+            
+         domain_info = whois.whois(string)
+         createDate=domain_info.creation_date.replace(tzinfo=None)
+         expiredDate=domain_info.expiration_date[0].replace(tzinfo=None)
+         today=datetime.now().replace(tzinfo=None)
+         features['time_domain_activation']=(today-createDate).days
+         features['time_domain_expiration']=(expiredDate-today).days
          return
-    except:
+    except Exception as e:
+         print(e)         
          features['time_domain_activation']=-1
          features['time_domain_expiration']=-1
          return
+    
+def qty_ip_resolved(domain):      
+    try:
+        ip_list = socket.getaddrinfo(domain, None)
+        ip_addresses = set([ip[4][0] for ip in ip_list])
+        features['qty_ip_resolved'] = len(ip_addresses)
+        return
+    except Exception as e:
+        print(e)     
+        features['qty_ip_resolved']=-1
+        return 0
 
+def qty_nameservers(domain):
+    try:
+        answer = dns.resolver.resolve(domain, 'NS')
+        nameservers = [ns.target.to_text() for ns in answer]
+        features['qty_nameservers'] = len(nameservers)
+        return
+    except Exception as e:
+        print(e)     
+        features['qty_nameservers']=-1
+        return
 
-#qty_ip_resolved
-#qty_nameservers
-#qty_mx_servers
-#ttl_hostname
-#tls_ssl_certificate
-#qty_redirects
-#url_google_index
-#domain_google_index
-#url_shortened
+def qty_mx_servers(domain):
+    try:
+        answer = dns.resolver.resolve(domain, 'MX')
+        mx_servers = []
+        for mx in answer:
+            server = mx.exchange.to_text()
+            priority = mx.preference
+            mx_servers.append((priority, server))
+        features['qty_mx_servers'] = len(mx_servers)
+        return
+    except Exception as e:
+        print(e)     
+        features['qty_mx_servers']=-1
+        return
 
+def ttl_hostname(domain):
+    try:
+       
+        answer = dns.resolver.resolve(domain, 'A')
+        ttl = answer.rrset.ttl
+        for rrset in answer.response.answer:
+            if rrset.rdtype == dns.rdatatype.A:
+                ttl = rrset.ttl
+                break
+        features['ttl_hostname'] = ttl
+        return
+    except Exception as e:
+        print(e)     
+        features['ttl_hostname']=-1
+        return
+    
+def tls_ssl_certificate(domain):
+    try:
+        context = ssl.create_default_context()
+        with socket.create_connection((domain, 443), timeout=10) as sock:
+            with context.wrap_socket(sock, server_hostname=domain) as ssock:
+                certificate = ssock.getpeercert()
+        features['tls_ssl_certificate']=1
+        return 
+    except Exception as e:
+        print(e)     
+        features['tls_ssl_certificate']=0
+        return
 
+def qty_redirects(url):
+    try:
+        response = requests.get(url, allow_redirects=True, timeout=10)
+        features['qty_redirects'] = len(response.history)
+        return
+    except Exception as e:
+        print(e)     
+        features['qty_redirects']=-1
+        return
 
-string="https://www.kaggle.com/datasets/mdsultanulislamovi/phishing-website-detection-datasets?select=dataset2.csv"
-count_symbols(string)
+def url_google_index(url):
+    search_url = f"https://www.google.com/search?q=site:{quote(url)}"
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    }
+    
+    try:
+        response = requests.get(search_url, headers=headers)
+        if "ничего не найдено" not in response.text.lower() and "no results found" not in response.text.lower():
+            features['url_google_index']=1
+            return
+        else:
+            features['url_google_index']=0
+            return 
+    except Exception as e:
+        print(e)     
+        features['url_google_index']=-1
+        return
 
-#spf_domain("https://www.kaggle.com/datasets/mdsultanulislamovi/phishing-website-detection-datasets?select=dataset2.csv")
-#asn_ip("https://www.kaggle.com/datasets/mdsultanulislamovi/phishing-website-detection-datasets?select=dataset2.csv")
+def domain_google_index(domain):
+    search_url = f"https://www.google.com/search?q=site:{quote(domain)}"
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    }
+    
+    try:
+        response = requests.get(search_url, headers=headers)
+        if "ничего не найдено" not in response.text.lower() and "no results found" not in response.text.lower():
+            features['domain_google_index']=1
+            return
+        else:
+            features['domain_google_index']=0
+            return 
+    except Exception as e:
+        print(e)     
+        features['domain_google_index']=-1
+        return
+
+def url_shortened(url):
+    try:
+        response = requests.head(url, allow_redirects=True, timeout=10)
+        if  (response.url == url):
+           features["url_shortened"]=0
+           return
+        else:
+           features["url_shortened"]=1
+           return
+    except Exception as e:
+        features["url_shortened"]=0
+        print(e)
+        return 
+
+def parse_string(string):
+    parts = urlparse(string)
+    domain_string=parts.hostname
+
+    count_symbols("string")
+    features['email_in_url'] = find_email(string)
+    features['time_response'] = measure_time_response(string)
+
+    spf_domain(domain_string)
+    asn_ip(domain_string)
+    time_domain(domain_string)
+    qty_ip_resolved(domain_string)
+    qty_nameservers(domain_string)
+    qty_mx_servers(domain_string)
+    ttl_hostname(domain_string)
+    tls_ssl_certificate(domain_string)
+    qty_redirects(string)
+    url_google_index(string)
+    domain_google_index(domain_string)
+    url_shortened(string)
+    return
 
 
 
 
 #   pip install python-whois
+#   pip install ipwhois
+#   pip install whois
 #   pip install dnspython
+#   pip install ping3
+#   pip install requests
 
    
         
