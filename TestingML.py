@@ -231,21 +231,21 @@ def dict_to_vector4(features):
     return ml_vector
 
 
-model2 = joblib.load('model2.joblib')
+model2 = joblib.load('model2LR.joblib')
 url="https://paypal.com"
 feature2=parserUrl2.parse_string(url)
 vector = dict_to_vector2(feature2)
 result = model2.predict([vector])
 print(f"Результат: {result}")
 
-model1 = joblib.load('model1.joblib')
+model1 = joblib.load('model1LR.joblib')
 url="https://paypal.com"
 feature1=parserUrl1.parse_string(url)
 vector = dict_to_vector1(feature1)
 result = model1.predict([vector])
 print(f"Результат: {result}")
 
-model4 = joblib.load('model4.joblib')
+model4 = joblib.load('model4LR.joblib')
 url="https://paypal.com"
 feature4=parserUrl4.parse_string(url)
 vector = dict_to_vector4(feature4)
