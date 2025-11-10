@@ -1,3 +1,5 @@
+#Laaaab\Scripts\Activate.ps1
+#pip install -r requirements.txt
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -9,10 +11,12 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import joblib
 from sklearn.neural_network import MLPClassifier
-import parserUrl
+import parserUrl2
+import parserUrl1
+import parserUrl4
 from sklearn.feature_extraction import DictVectorizer
 
-def dict_to_vector(features):
+def dict_to_vector2(features):
     ml_vector = [
     features["url_dot"],                    # qty_dot_url
     features["url_hyphen"],                 # qty_hyphen_url
@@ -136,12 +140,114 @@ def dict_to_vector(features):
 ]
     return ml_vector
 
+def dict_to_vector1(features):
+    ml_vector = [
+        features['having_IPhaving_IP_Address '],    # 1. Наличие IP-адреса
+        features['URLURL_Length '],                 # 2. Длина URL
+        features['Shortining_Service '],            # 3. Использование службы сокращения
+        features['having_At_Symbol '],              # 4. Наличие символа '@'
+        features['double_slash_redirecting '],      # 5. Двойное перенаправление слэша
+        features['Prefix_Suffix '],                 # 6. Использование префикса/суффикса
+        features['having_Sub_Domain '],             # 7. Наличие поддомена
+        features['SSLfinal_State '],                # 8. Финальное состояние SSL
+        features['Domain_registeration_length '],   # 9. Длина регистрации домена
+        features['Favicon '],                       # 10. Favicon
+        features['port '],                          # 11. Использование порта
+        features['HTTPS_token '],                   # 12. Токен HTTPS
+        features['Request_URL '],                   # 13. Запрашиваемый URL
+        features['URL_of_Anchor '],                 # 14. URL якоря
+        features['Links_in_tags '],                 # 15. Ссылки в тегах
+        features['SFH '],                           # 16. Server Form Handler (SFH)
+        features['Submitting_to_email '],           # 17. Отправка на email
+        features['Abnormal_URL '],                  # 18. Аномальный URL
+        features['Redirect '],                      # 19. Перенаправление
+        features['on_mouseover '],                  # 20. Событие on_mouseover
+        features['RightClick '],                    # 21. Правый клик
+        features['popUpWidnow '],                   # 22. Всплывающее окно
+        features['Iframe '],                        # 23. Iframe
+        features['age_of_domain '],                 # 24. Возраст домена
+        features['DNSRecord '],                     # 25. Запись DNS
+        features['web_traffic '],                   # 26. Веб-трафик
+        features['Page_Rank '],                     # 27. Page Rank
+        features['Google_Index '],                  # 28. Индексация Google
+        features['Links_pointing_to_page '],        # 29. Ссылки, указывающие на страницу
+        features['Statistical_report ']              # 30. Статистический отчет
+    ]
+    return ml_vector
 
-model = joblib.load('model.joblib')
-url="http://wave.progressfilm.co.uk/time3/?logon=myposte"
-feature=parserUrl.parse_string(url)
-vector = dict_to_vector(feature)
-result = model.predict([vector])
+def dict_to_vector4(features):
+    ml_vector = [
+        features["URLLength"],
+        features["DomainLength"],
+        features["IsDomainIP"],
+        features["URLSimilarityIndex"],
+        features["CharContinuationRate"],
+        features["TLDLegitimateProb"],
+        features["URLCharProb"],
+        features["TLDLength"],
+        features["NoOfSubDomain"],
+        features["HasObfuscation"],
+        features["NoOfObfuscatedChar"],
+        features["ObfuscationRatio"],
+        features["NoOfLettersInURL"],
+        features["LetterRatioInURL"],
+        features["NoOfDegitsInURL"],
+        features["DegitRatioInURL"],
+        features["NoOfEqualsInURL"],
+        features["NoOfQMarkInURL"],
+        features["NoOfAmpersandInURL"],
+        features["NoOfOtherSpecialCharsInURL"],
+        features["SpacialCharRatioInURL"],
+        features["IsHTTPS"],
+        features["LineOfCode"],
+        features["LargestLineLength"],
+        features["HasTitle"],
+        features["DomainTitleMatchScore"],
+        features["URLTitleMatchScore"],
+        features["HasFavicon"],
+        features["Robots"],
+        features["IsResponsive"],
+        features["NoOfURLRedirect"],
+        features["NoOfSelfRedirect"],
+        features["HasDescription"],
+        features["NoOfPopup"],
+        features["NoOfiFrame"],
+        features["HasExternalFormSubmit"],
+        features["HasSocialNet"],
+        features["HasSubmitButton"],
+        features["HasHiddenFields"],
+        features["HasPasswordField"],
+        features["Bank"],
+        features["Pay"],
+        features["Crypto"],
+        features["HasCopyrightInfo"],
+        features["NoOfImage"],
+        features["NoOfCSS"],
+        features["NoOfJS"],
+        features["NoOfSelfRef"],
+        features["NoOfEmptyRef"],
+        features["NoOfExternalRef"]
+    ]
+    return ml_vector
+
+
+model2 = joblib.load('model2.joblib')
+url="https://paypal.com"
+feature2=parserUrl2.parse_string(url)
+vector = dict_to_vector2(feature2)
+result = model2.predict([vector])
 print(f"Результат: {result}")
 
-#Laaaab\Scripts\Activate.ps1
+model1 = joblib.load('model1.joblib')
+url="https://paypal.com"
+feature1=parserUrl1.parse_string(url)
+vector = dict_to_vector1(feature1)
+result = model1.predict([vector])
+print(f"Результат: {result}")
+
+model4 = joblib.load('model4.joblib')
+url="https://paypal.com"
+feature4=parserUrl4.parse_string(url)
+vector = dict_to_vector4(feature4)
+result = model4.predict([vector])
+print(f"Результат: {result}")
