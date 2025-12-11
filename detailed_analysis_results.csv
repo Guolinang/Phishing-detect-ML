@@ -1,0 +1,16 @@
+parser,algorithm,total_tests,accuracy,legit_as_legit,legit_as_phishing,phishing_as_phishing,phishing_as_legit,false_positives,false_negatives
+parser1,BC,3,0.3333333333333333,0,0,1,2,0,2
+parser1,KNN,3,1.0,0,0,3,0,0,0
+parser1,LR,3,0.3333333333333333,0,0,1,2,0,2
+parser1,NW,3,0.3333333333333333,0,0,1,2,0,2
+parser1,RF,3,1.0,0,0,3,0,0,0
+parser2,BC,3,1.0,0,0,3,0,0,0
+parser2,KNN,3,1.0,0,0,3,0,0,0
+parser2,LR,3,1.0,0,0,3,0,0,0
+parser2,NW,3,1.0,0,0,3,0,0,0
+parser2,RF,3,1.0,0,0,3,0,0,0
+parser4,BC,3,0.0,0,0,0,3,0,3
+parser4,KNN,3,0.0,0,0,0,3,0,3
+parser4,LR,3,1.0,0,0,3,0,0,0
+parser4,NW,3,1.0,0,0,3,0,0,0
+parser4,RF,3,1.0,0,0,3,0,0,0

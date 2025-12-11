@@ -80,3 +80,4 @@ plt.tight_layout()
 plt.show()
 
 joblib.dump(KNN, 'model4KNN.joblib')
+joblib.dump(scaler, 'scaler4KNN.joblib')

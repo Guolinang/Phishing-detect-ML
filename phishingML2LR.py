@@ -15,13 +15,13 @@ X = df.drop('phishing', axis=1)
 X = X.drop('tld_present_params', axis=1)
 X = X.drop('qty_params', axis=1)
 Y = df['phishing']
-X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, random_state=42)
+X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, random_state=42,)
 
 scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
 
-LR = LogisticRegression()
+LR = LogisticRegression(max_iter=1000)
 LR.fit(X_train_scaled, Y_train)
 
 Y_test_pred = LR.predict(X_test_scaled)
@@ -75,3 +75,4 @@ plt.tight_layout()
 plt.show()
 
 joblib.dump(LR, 'model2LR.joblib')
+joblib.dump(scaler, 'scaler2LR.joblib')

@@ -14,7 +14,7 @@ X = df.drop('phishing', axis=1)
 X = X.drop('tld_present_params', axis=1)
 X = X.drop('qty_params', axis=1)
 Y = df['phishing']
-X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, random_state=42)
+X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, random_state=42,)
 
 scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)
@@ -74,3 +74,4 @@ plt.tight_layout()
 plt.show()
 
 joblib.dump(MLP, 'model2NW.joblib')
+joblib.dump(scaler, 'scaler2NW.joblib')

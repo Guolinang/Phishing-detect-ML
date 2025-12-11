@@ -80,3 +80,4 @@ plt.tight_layout()
 plt.show()
 
 joblib.dump(MLP, 'model4NW.joblib')
+joblib.dump(scaler, 'scaler4NW.joblib')

@@ -72,5 +72,5 @@ plt.legend()
 
 plt.tight_layout()
 plt.show()
-
+joblib.dump(scaler, 'scaler2BC.joblib')
 joblib.dump(NB, 'model2BC.joblib')

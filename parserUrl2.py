@@ -6,7 +6,8 @@
 #pip install dnspython
 #pip install ping3
 #pip install requests
-
+import logging
+logging.basicConfig(level=logging.CRITICAL)
 from urllib.parse import urlparse 
 import re
 from urllib.parse import unquote, quote

@@ -81,3 +81,4 @@ plt.tight_layout()
 plt.show()
 
 joblib.dump(NB, 'model4BC.joblib')
+joblib.dump(scaler, 'scaler4BC.joblib')

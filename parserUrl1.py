@@ -18,39 +18,40 @@ import dns.resolver
 import os
 import urllib.request
 import logging  
-
+import logging
+logging.basicConfig(level=logging.CRITICAL)
 logging.basicConfig(filename='parser_errors.log', level=logging.ERROR)
 
 features = {
-              'having_IPhaving_IP_Address ': 0,
-              'URLURL_Length ': 0,
-              'Shortining_Service ': 0,
-              'having_At_Symbol ': 0,
-              'double_slash_redirecting ': 0,
-              'Prefix_Suffix ': 0,
-              'having_Sub_Domain ': 0,
-              'SSLfinal_State ': 0,
-              'Domain_registeration_length ': 0,
-              'Favicon ': 0,
-              'port ': 0,
-              'HTTPS_token ': 0,
-              'Request_URL ': 0,
-              'URL_of_Anchor ': 0,
-              'Links_in_tags ': 0,
-              'SFH ': 0,
-              'Submitting_to_email ': 0,
-              'Abnormal_URL ': 0,
-              'Redirect ': 0,
-              'on_mouseover ': 0,
-              'RightClick ': 0,
-              'popUpWidnow ': 0,
-              'Iframe ': 0,
-              'age_of_domain ': 0,
-              'DNSRecord ': 0,
-              'web_traffic ': 0,
-              'Page_Rank ': 0,
-              'Google_Index ': 0,
-              'Links_pointing_to_page ': 0,
+              'having_IPhaving_IP_Address': 0,
+              'URLURL_Length': 0,
+              'Shortining_Service': 0,
+              'having_At_Symbol': 0,
+              'double_slash_redirecting': 0,
+              'Prefix_Suffix': 0,
+              'having_Sub_Domain': 0,
+              'SSLfinal_State': 0,
+              'Domain_registeration_length': 0,
+              'Favicon': 0,
+              'port': 0,
+              'HTTPS_token': 0,
+              'Request_URL': 0,
+              'URL_of_Anchor': 0,
+              'Links_in_tags': 0,
+              'SFH': 0,
+              'Submitting_to_email': 0,
+              'Abnormal_URL': 0,
+              'Redirect': 0,
+              'on_mouseover': 0,
+              'RightClick': 0,
+              'popUpWidnow': 0,
+              'Iframe': 0,
+              'age_of_domain': 0,
+              'DNSRecord': 0,
+              'web_traffic': 0,
+              'Page_Rank': 0,
+              'Google_Index': 0,
+              'Links_pointing_to_page': 0,
               'Statistical_report ': 0}
 
 def having_IP(domain):
@@ -72,48 +73,48 @@ def URL_check(url):
     scheme = parts.scheme
 
     if len(url_string) > 75:
-        features['URLURL_Length '] = -1
+        features['URLURL_Length'] = -1
     elif 54 <= len(url_string) <= 75:
-        features['URLURL_Length '] = 0
+        features['URLURL_Length'] = 0
     else:
-        features['URLURL_Length '] = 1
+        features['URLURL_Length'] = 1
 
     if '@' in url_string:
-        features['having_At_Symbol '] = -1
+        features['having_At_Symbol'] = -1
     else:
-        features['having_At_Symbol '] = 1
+        features['having_At_Symbol'] = 1
 
     start_pos = len(scheme) + 3  
     if url_string.find('//', start_pos) != -1:
-        features['double_slash_redirecting '] = -1
+        features['double_slash_redirecting'] = -1
     else:
-        features['double_slash_redirecting '] = 1
+        features['double_slash_redirecting'] = 1
 
     if '-' in domain_string:
-        features['Prefix_Suffix '] = -1
+        features['Prefix_Suffix'] = -1
     else:
-        features['Prefix_Suffix '] = 1
+        features['Prefix_Suffix'] = 1
 
     domain = domain_string.lstrip('www.')  
     dots = domain.count('.')
     if dots > 2:
-        features['having_Sub_Domain '] = -1
+        features['having_Sub_Domain'] = -1
     elif dots == 2:
-        features['having_Sub_Domain '] = 0
+        features['having_Sub_Domain'] = 0
     else:
-        features['having_Sub_Domain '] = 1
+        features['having_Sub_Domain'] = 1
 
     if port is None:
         port = 443 if scheme == 'https' else 80 if scheme == 'http' else None
     if port in (80, 443) or port is None:
-        features['port '] = 1
+        features['port'] = 1
     else:
-        features['port '] = -1
+        features['port'] = -1
 
     if 'https' in domain_string:
-        features['HTTPS_token '] = -1
+        features['HTTPS_token'] = -1
     else:
-        features['HTTPS_token '] = 1
+        features['HTTPS_token'] = 1
 
 def url_shortened(url):
     headers = {
@@ -126,9 +127,9 @@ def url_shortened(url):
     domain = parts.hostname
 
     if domain.lower() in [d.lower() for d in shorteners]:
-        features["Shortining_Service "] = -1
+        features["Shortining_Service"] = -1
     else:
-        features["Shortining_Service "] = 1
+        features["Shortining_Service"] = 1
 
     try:
         response = requests.head(url, headers=headers, allow_redirects=True, timeout=10)
@@ -136,21 +137,21 @@ def url_shortened(url):
         redirects = len(response.history)
 
         if redirects >= 4:
-            features["Redirect "] = -1
+            features["Redirect"] = -1
         elif redirects >= 2:
-            features["Redirect "] = 0
+            features["Redirect"] = 0
         else:
-            features["Redirect "] = 1
+            features["Redirect"] = 1
         return
 
     except requests.RequestException:
-        features["Shortining_Service "] = -1
-        features["Redirect "] = -1
+        features["Shortining_Service"] = -1
+        features["Redirect"] = -1
         return
     except Exception:
         logging.error(f"Unexpected error in url_shortened for {url}")
-        features["Shortining_Service "] = -1
-        features["Redirect "] = -1
+        features["Shortining_Service"] = -1
+        features["Redirect"] = -1
         return
 
 def SSLfinal_State(domain):
@@ -165,24 +166,24 @@ def SSLfinal_State(domain):
                 issuer = dict(x[0] for x in certificate['issuer'])
                 issued_by = issuer.get('organizationName', '')
                 if 'Let\'s Encrypt' in issued_by or 'Amazon' in issued_by or 'Google Trust Services' in issued_by:
-                    features['SSLfinal_State '] = 0
+                    features['SSLfinal_State'] = 0
                 else:
                     if (cert_expiry - current_date).days > 365:
-                        features['SSLfinal_State '] = 1
+                        features['SSLfinal_State'] = 1
                     else:
-                        features['SSLfinal_State '] = 0
+                        features['SSLfinal_State'] = 0
     except socket.gaierror:
-        features['SSLfinal_State '] = -1
+        features['SSLfinal_State'] = -1
         return
     except ssl.SSLError:
-        features['SSLfinal_State '] = -1
+        features['SSLfinal_State'] = -1
         return
     except socket.timeout:
-        features['SSLfinal_State '] = -1
+        features['SSLfinal_State'] = -1
         return
     except Exception:
         logging.error(f"Unexpected error in SSLfinal_State for {domain}")
-        features['SSLfinal_State '] = -1
+        features['SSLfinal_State'] = -1
         return
     
 def time_domain(domain):
@@ -205,16 +206,16 @@ def time_domain(domain):
         age_days = (current_date - createDate).days
         
         if age_days >= 182:  # примерно 6 месяцев
-            features['age_of_domain '] = 1
+            features['age_of_domain'] = 1
         else:
-            features['age_of_domain '] = -1
+            features['age_of_domain'] = -1
         
-        features['Domain_registeration_length '] = 1 if (expireDate - current_date).days >= 365 else -1
+        features['Domain_registeration_length'] = 1 if (expireDate - current_date).days >= 365 else -1
         return
     except Exception as e:
         logging.error(f"Error in time_domain for {domain}: {e}")
-        features['age_of_domain '] = -1
-        features['Domain_registeration_length '] = -1
+        features['age_of_domain'] = -1
+        features['Domain_registeration_length'] = -1
         return
     
 def favicon_check(url):
@@ -229,15 +230,15 @@ def favicon_check(url):
         if favicon_link:
             favicon_href = favicon_link['href']
             if urlparse(favicon_href).netloc != urlparse(url).netloc:
-                features['Favicon '] = -1
+                features['Favicon'] = -1
                 return
-        features['Favicon '] = 1
+        features['Favicon'] = 1
     except requests.RequestException:
-        features['Favicon '] = -1
+        features['Favicon'] = -1
         return
     except Exception:
         logging.error(f"Unexpected error in favicon_check for {url}")
-        features['Favicon '] = -1
+        features['Favicon'] = -1
         return
     
 def get_external_domains_static(url):
@@ -405,22 +406,22 @@ def get_external_domains_static(url):
 def dns_check(domain):
     try:
         dns.resolver.resolve(domain, 'A')
-        features['DNSRecord '] = 1
+        features['DNSRecord'] = 1
     except dns.resolver.NXDOMAIN:
-        features['DNSRecord '] = -1
+        features['DNSRecord'] = -1
         return
     except dns.resolver.NoAnswer:
-        features['DNSRecord '] = -1
+        features['DNSRecord'] = -1
         return
     except dns.resolver.Timeout:
-        features['DNSRecord '] = -1
+        features['DNSRecord'] = -1
         return
     except dns.exception.DNSException:
-        features['DNSRecord '] = -1
+        features['DNSRecord'] = -1
         return
     except Exception:
         logging.error(f"Unexpected error in dns_check for {domain}")
-        features['DNSRecord '] = -1
+        features['DNSRecord'] = -1
         return
 
 def url_google_index(url):
@@ -433,15 +434,15 @@ def url_google_index(url):
         response = requests.get(search_url, headers=headers, timeout=10)
         response.raise_for_status()
         if "ничего не найдено" not in response.text.lower() and "no results found" not in response.text.lower():
-            features['Google_Index '] = 1
+            features['Google_Index'] = 1
         else:
-            features['Google_Index '] = -1
+            features['Google_Index'] = -1
     except requests.RequestException:
-        features['Google_Index '] = -1
+        features['Google_Index'] = -1
         return
     except Exception:
         logging.error(f"Unexpected error in url_google_index for {url}")
-        features['Google_Index '] = -1
+        features['Google_Index'] = -1
         return
     
 def traffic_check(domain):
@@ -453,17 +454,17 @@ def traffic_check(domain):
         data = response.json()
         rank = data.get('global_rank', 0)
         if rank > 100000:
-            features['web_traffic '] = -1
+            features['web_traffic'] = -1
         elif rank > 10000:
-            features['web_traffic '] = 0
+            features['web_traffic'] = 0
         else:
-            features['web_traffic '] = 1
+            features['web_traffic'] = 1
     except requests.RequestException:
-        features['web_traffic '] = -1
+        features['web_traffic'] = -1
         return
     except Exception:
         logging.error(f"Unexpected error in traffic_check for {domain}")
-        features['web_traffic '] = -1
+        features['web_traffic'] = -1
         return
 
 def statistical_check(domain):
@@ -473,16 +474,16 @@ def statistical_check(domain):
         urllib.request.urlretrieve(url, file_path)
     except Exception:
         logging.error(f"Error downloading PhishTank data for {domain}")
-        features['Statistical_report '] = 0 
+        features['Statistical_report'] = 0 
         return
     try:
         df = pd.read_csv(file_path)
         urls = df['url']
         is_phishing = any(domain == urlparse(u).netloc for u in urls)
-        features['Statistical_report '] = -1 if is_phishing else 1
+        features['Statistical_report'] = -1 if is_phishing else 1
     except Exception:
         logging.error(f"Error reading PhishTank data for {domain}")
-        features['Statistical_report '] = 0
+        features['Statistical_report'] = 0
         return
 def pagerank_check(domain):
     API_KEY = "4sgoc80o4ggw0ccccgkgcgsw80ocoo4osw0gg4gk"  # Assuming valid
@@ -497,19 +498,19 @@ def pagerank_check(domain):
         for item in data.get("response", []):
             pr = item.get("page_rank_decimal", 0) / 10.0 
             if pr <= 0.5:
-                features['Page_Rank '] = -1
-                features['Links_pointing_to_page '] = -1
+                features['Page_Rank'] = -1
+                features['Links_pointing_to_page'] = -1
             else:
-                features['Page_Rank '] = -1
-                features['Links_pointing_to_page '] = -1
+                features['Page_Rank'] = -1
+                features['Links_pointing_to_page'] = -1
     except requests.RequestException:
-        features['Page_Rank '] = -1
-        features['Links_pointing_to_page '] = -1
+        features['Page_Rank'] = -1
+        features['Links_pointing_to_page'] = -1
         return
     except Exception:
         logging.error(f"Unexpected error in pagerank_check for {domain}")
-        features['Page_Rank '] = -1
-        features['Links_pointing_to_page '] = -1
+        features['Page_Rank'] = -1
+        features['Links_pointing_to_page'] = -1
         return
 
 def rightclick_check(url, timeout=10):
@@ -543,14 +544,14 @@ def rightclick_check(url, timeout=10):
             if pattern.search(response.text):
                 disabled = True
 
-        features['RightClick '] = -1 if disabled else 1
+        features['RightClick'] = -1 if disabled else 1
 
     except requests.RequestException:
-        features['RightClick '] = -1
+        features['RightClick'] = -1
         return
     except Exception:
         logging.error(f"Unexpected error in rightclick_check for {url}")
-        features['RightClick '] = -1
+        features['RightClick'] = -1
         return
 
 def popup_window_check(url):
@@ -570,13 +571,13 @@ def popup_window_check(url):
                     has_popup_with_input = True
                     break
 
-        features['popUpWidnow '] = -1 if has_popup_with_input else 1
+        features['popUpWidnow'] = -1 if has_popup_with_input else 1
     except requests.RequestException:
-        features['popUpWidnow '] = -1
+        features['popUpWidnow'] = -1
         return
     except Exception:
         logging.error(f"Unexpected error in popup_window_check for {url}")
-        features['popUpWidnow '] = -1
+        features['popUpWidnow'] = -1
         return
 
 def parse_string(url):
@@ -586,20 +587,20 @@ def parse_string(url):
     try:
         socket.getaddrinfo(domain, None) 
     except socket.gaierror:
-        features['Shortining_Service '] = -1
-        features['Redirect '] = -1
-        features['SSLfinal_State '] = -1
-        features['Domain_registeration_length '] = -1
-        features['Favicon '] = -1
-        features['DNSRecord '] = -1
-        features['Google_Index '] = -1
-        features['web_traffic '] = -1
-        features['Page_Rank '] = -1
-        features['Links_pointing_to_page '] = -1
-        features['Statistical_report '] = 0
-        features['RightClick '] = -1
-        features['popUpWidnow '] = -1
-        features['age_of_domain '] = -1
+        features['Shortining_Service'] = -1
+        features['Redirect'] = -1
+        features['SSLfinal_State'] = -1
+        features['Domain_registeration_length'] = -1
+        features['Favicon'] = -1
+        features['DNSRecord'] = -1
+        features['Google_Index'] = -1
+        features['web_traffic'] = -1
+        features['Page_Rank'] = -1
+        features['Links_pointing_to_page'] = -1
+        features['Statistical_report'] = 0
+        features['RightClick'] = -1
+        features['popUpWidnow'] = -1
+        features['age_of_domain'] = -1
         URL_check(url)
         having_IP(domain)
         get_external_domains_static(url) 

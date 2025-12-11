@@ -1,14 +1,2133 @@
-ERROR:root:Error downloading PhishTank data for google.com
-ERROR:root:Error downloading PhishTank data for google.com
-ERROR:root:Error downloading PhishTank data for google.com
-ERROR:root:Error downloading PhishTank data for google.com
-ERROR:root:Error downloading PhishTank data for google.com
-ERROR:root:Unexpected error in tls_ssl_certificate for facebook.com
-ERROR:root:Unexpected error in SSLfinal_State for facebook.com
-ERROR:root:Error downloading PhishTank data for facebook.com
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
 ERROR:root:Error downloading PhishTank data for vk.com
-ERROR:root:Error downloading PhishTank data for paypal.com
-ERROR:root:Error downloading PhishTank data for paypal.com
-ERROR:root:Error downloading PhishTank data for paypal.com
-ERROR:root:Error downloading PhishTank data for paypal.com
-ERROR:root:Error downloading PhishTank data for paypal.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-01T19:14:08Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:root:Error fetching HTML for https://freeflow25.myshopify.com/: 404 Client Error: Not Found for url: https://freeflow25.myshopify.com/
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-01T19:16:22Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:root:Error fetching HTML for https://freeflow25.myshopify.com/: 404 Client Error: Not Found for url: https://freeflow25.myshopify.com/
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000027828A14690>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for bandbsmengine.com
+ERROR:root:Unexpected error in asn_ip for bandbsmengine.com
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000027828AEAED0>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Unexpected error in asn_ip for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Unexpected error in asn_ip for 123.190.191.43
+ERROR:root:Error fetching HTML for http://123.190.191.43:45555/i: HTTPConnectionPool(host='123.190.191.43', port=45555): Max retries exceeded with url: /i (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000027828ADCB90>, 'Connection to 123.190.191.43 timed out. (connect timeout=10)'))
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Unexpected error in asn_ip for 64.112.42.225
+ERROR:root:Error fetching HTML for http://64.112.42.225:83/xmrig: HTTPConnectionPool(host='64.112.42.225', port=83): Max retries exceeded with url: /xmrig (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000027828A99F90>, 'Connection to 64.112.42.225 timed out. (connect timeout=10)'))
+ERROR:root:Error fetching HTML for https://fifiyiy.com/: HTTPSConnectionPool(host='fifiyiy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000027828A63D90>: Failed to resolve 'fifiyiy.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-01T19:50:03Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:root:Error fetching HTML for https://freeflow25.myshopify.com/: 404 Client Error: Not Found for url: https://freeflow25.myshopify.com/
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018F57D84810>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for bandbsmengine.com
+ERROR:root:Unexpected error in asn_ip for bandbsmengine.com
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000018F5796BA50>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Unexpected error in asn_ip for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Unexpected error in asn_ip for 123.190.191.43
+ERROR:root:Error fetching HTML for http://123.190.191.43:45555/i: HTTPConnectionPool(host='123.190.191.43', port=45555): Max retries exceeded with url: /i (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000018F5792AB10>, 'Connection to 123.190.191.43 timed out. (connect timeout=10)'))
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Unexpected error in asn_ip for 64.112.42.225
+ERROR:root:Error fetching HTML for http://64.112.42.225:83/xmrig: HTTPConnectionPool(host='64.112.42.225', port=83): Max retries exceeded with url: /xmrig (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000018F5796C8D0>, 'Connection to 64.112.42.225 timed out. (connect timeout=10)'))
+ERROR:root:Error fetching HTML for https://fifiyiy.com/: HTTPSConnectionPool(host='fifiyiy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000018F57901150>: Failed to resolve 'fifiyiy.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-01T20:04:05Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:root:Error fetching HTML for https://freeflow25.myshopify.com/: 404 Client Error: Not Found for url: https://freeflow25.myshopify.com/
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000186AAA66E90>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:root:Error downloading PhishTank data for bandbsmengine.com
+ERROR:root:Unexpected error in asn_ip for bandbsmengine.com
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000186AA9C0850>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Unexpected error in asn_ip for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Unexpected error in asn_ip for 123.190.191.43
+ERROR:root:Error fetching HTML for http://123.190.191.43:45555/i: HTTPConnectionPool(host='123.190.191.43', port=45555): Max retries exceeded with url: /i (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000186AA9C2B10>, 'Connection to 123.190.191.43 timed out. (connect timeout=10)'))
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Unexpected error in asn_ip for 64.112.42.225
+ERROR:root:Error fetching HTML for http://64.112.42.225:83/xmrig: HTTPConnectionPool(host='64.112.42.225', port=83): Max retries exceeded with url: /xmrig (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x00000186AA9E8150>, 'Connection to 64.112.42.225 timed out. (connect timeout=10)'))
+ERROR:root:Error fetching HTML for https://fifiyiy.com/: HTTPSConnectionPool(host='fifiyiy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000186AA9D1610>: Failed to resolve 'fifiyiy.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001945A0D4510>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-01T20:25:13Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-01T20:41:19Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000201232398D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for bandbsmengine.com
+ERROR:root:Unexpected error in asn_ip for bandbsmengine.com
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000020123986A90>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Unexpected error in asn_ip for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-01T20:49:52Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-01T21:16:29Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001B1CE7A5210>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for bandbsmengine.com
+ERROR:root:Unexpected error in asn_ip for bandbsmengine.com
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001B1CE40FF90>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Unexpected error in asn_ip for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Unexpected error in asn_ip for 123.190.191.43
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Unexpected error in asn_ip for 64.112.42.225
+ERROR:root:Error fetching HTML for https://fifiyiy.com/: HTTPSConnectionPool(host='fifiyiy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B1CE489150>: Failed to resolve 'fifiyiy.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-01T21:33:16Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F8CBC20090>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for bandbsmengine.com
+ERROR:root:Unexpected error in asn_ip for bandbsmengine.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001F8CBC9D690>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Unexpected error in asn_ip for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Unexpected error in asn_ip for 123.190.191.43
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Unexpected error in asn_ip for 64.112.42.225
+ERROR:root:Error fetching HTML for https://fifiyiy.com/: HTTPSConnectionPool(host='fifiyiy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F8CBCB7B10>: Failed to resolve 'fifiyiy.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-01T21:54:49Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000026F6AF59750>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:root:Error downloading PhishTank data for bandbsmengine.com
+ERROR:root:Unexpected error in asn_ip for bandbsmengine.com
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000026F6B5E3690>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Unexpected error in asn_ip for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Unexpected error in asn_ip for 123.190.191.43
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Unexpected error in asn_ip for 64.112.42.225
+ERROR:root:Error fetching HTML for https://fifiyiy.com/: HTTPSConnectionPool(host='fifiyiy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000026F6B5B5E50>: Failed to resolve 'fifiyiy.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-01T22:13:26Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FB52CA9610>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for bandbsmengine.com
+ERROR:root:Unexpected error in asn_ip for bandbsmengine.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001FB52A4D690>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Unexpected error in asn_ip for 365internacional.webcindario.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Unexpected error in asn_ip for 123.190.191.43
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Unexpected error in asn_ip for 64.112.42.225
+ERROR:root:Error fetching HTML for https://fifiyiy.com/: HTTPSConnectionPool(host='fifiyiy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001FB52F40250>: Failed to resolve 'fifiyiy.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-01T22:34:13Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001F6E853F410>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for bandbsmengine.com
+ERROR:root:Unexpected error in asn_ip for bandbsmengine.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001F6E87B46D0>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Unexpected error in asn_ip for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Unexpected error in asn_ip for 123.190.191.43
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Unexpected error in asn_ip for 64.112.42.225
+ERROR:root:Error fetching HTML for https://fifiyiy.com/: HTTPSConnectionPool(host='fifiyiy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F6E87A8B50>: Failed to resolve 'fifiyiy.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-03T07:08:25Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001ABC670FD90>, 'Connection to 110.37.6.176 timed out. (connect timeout=10)'))
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:root:Error fetching HTML for https://bandbsmengine.com: HTTPSConnectionPool(host='bandbsmengine.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001ABC6708550>: Failed to resolve 'bandbsmengine.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001ABC695F110>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Error fetching HTML for https://fifiyiy.com/: HTTPSConnectionPool(host='fifiyiy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001ABC6443F90>: Failed to resolve 'fifiyiy.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-03T16:17:31Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001DABFF56490>, 'Connection to 110.37.6.176 timed out. (connect timeout=10)'))
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:root:Error fetching HTML for https://bandbsmengine.com: HTTPSConnectionPool(host='bandbsmengine.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DAC01E5DD0>: Failed to resolve 'bandbsmengine.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001DABFF35DD0>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Error fetching HTML for https://fifiyiy.com/: HTTPSConnectionPool(host='fifiyiy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001DABFEEDE50>: Failed to resolve 'fifiyiy.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-03T16:37:20Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F0FF75AC10>, 'Connection to 110.37.6.176 timed out. (connect timeout=10)'))
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:root:Error fetching HTML for https://bandbsmengine.com: HTTPSConnectionPool(host='bandbsmengine.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F0FF7360D0>: Failed to resolve 'bandbsmengine.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000001F0FF73CB10>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Unexpected error in asn_ip for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Unexpected error in asn_ip for 123.190.191.43
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Unexpected error in asn_ip for 64.112.42.225
+ERROR:root:Error fetching HTML for https://fifiyiy.com/: HTTPSConnectionPool(host='fifiyiy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F0FF6FC790>: Failed to resolve 'fifiyiy.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-03T17:02:43Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002EC999BD6D0>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:root:Error fetching HTML for https://bandbsmengine.com: HTTPSConnectionPool(host='bandbsmengine.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002EC99267B90>: Failed to resolve 'bandbsmengine.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x000002EC99C6A910>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Unexpected error in asn_ip for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Unexpected error in asn_ip for 123.190.191.43
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Unexpected error in asn_ip for 64.112.42.225
+ERROR:root:Error fetching HTML for https://fifiyiy.com/: HTTPSConnectionPool(host='fifiyiy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002EC999DACD0>: Failed to resolve 'fifiyiy.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error fetching HTML for https://sberbank.ruhttps://rambler.ruhttps://ivi.ru: HTTPSConnectionPool(host='sberbank.ruhttps', port=443): Max retries exceeded with url: /rambler.ruhttps://ivi.ru (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000014778F5B650>: Failed to resolve 'sberbank.ruhttps' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error fetching HTML for https://freeflow25.myshopify.com/: 404 Client Error: Not Found for url: https://freeflow25.myshopify.com/
+ERROR:root:Error fetching HTML for http://110.37.6.176:36069/i: HTTPConnectionPool(host='110.37.6.176', port=36069): Max retries exceeded with url: /i (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000014778F3B550>: Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение'))
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:root:Error fetching HTML for https://bandbsmengine.com: HTTPSConnectionPool(host='bandbsmengine.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000014778F3A2D0>: Failed to resolve 'bandbsmengine.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x0000014778F646D0>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error fetching HTML for http://123.190.191.43:45555/i: HTTPConnectionPool(host='123.190.191.43', port=45555): Max retries exceeded with url: /i (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000014778F667D0>, 'Connection to 123.190.191.43 timed out. (connect timeout=10)'))
+ERROR:root:Error fetching HTML for http://64.112.42.225:83/xmrig: HTTPConnectionPool(host='64.112.42.225', port=83): Max retries exceeded with url: /xmrig (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000014778F7A8D0>, 'Connection to 64.112.42.225 timed out. (connect timeout=10)'))
+ERROR:root:Error fetching HTML for https://fifiyiy.com/: HTTPSConnectionPool(host='fifiyiy.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000014778F5A950>: Failed to resolve 'fifiyiy.com' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-03T17:36:08Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Unexpected error in asn_ip for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Unexpected error in asn_ip for 123.190.191.43
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Unexpected error in asn_ip for 64.112.42.225
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Unexpected error in SSLfinal_State for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for 178.250.188.214
+ERROR:root:Unexpected error in pagerank_check for 178.250.188.214
+ERROR:root:Unexpected error in asn_ip for 178.250.188.214
+ERROR:root:Unexpected error in tls_ssl_certificate for 178.250.188.214
+ERROR:root:Unexpected error in SSLfinal_State for teamc2.duckdns.org
+ERROR:root:Error in time_domain for teamc2.duckdns.org: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for teamc2.duckdns.org
+ERROR:root:Unexpected error in asn_ip for teamc2.duckdns.org
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error downloading PhishTank data for cliff.sunr1dge.ru
+ERROR:root:Unexpected error in asn_ip for cliff.sunr1dge.ru
+ERROR:root:Error downloading PhishTank data for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Unexpected error in asn_ip for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Error in time_domain for scottrayy9.wixsite.com: No match for "SCOTTRAYY9.WIXSITE.COM".
+>>> Last update of whois database: 2025-12-03T17:50:43Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for scottrayy9.wixsite.com
+ERROR:root:Unexpected error in asn_ip for scottrayy9.wixsite.com
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for xiifaga.info: Whois command returned no output
+ERROR:root:Error downloading PhishTank data for xiifaga.info
+ERROR:root:Unexpected error in asn_ip for xiifaga.info
+ERROR:root:Error downloading PhishTank data for yupoofrance.ru
+ERROR:root:Unexpected error in asn_ip for yupoofrance.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Unexpected error in SSLfinal_State for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for 178.250.188.214
+ERROR:root:Unexpected error in pagerank_check for 178.250.188.214
+ERROR:root:Unexpected error in asn_ip for 178.250.188.214
+ERROR:root:Unexpected error in tls_ssl_certificate for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for bancobci.com.mx
+ERROR:root:Unexpected error in asn_ip for bancobci.com.mx
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error downloading PhishTank data for cliff.sunr1dge.ru
+ERROR:root:Unexpected error in asn_ip for cliff.sunr1dge.ru
+ERROR:root:Error downloading PhishTank data for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Unexpected error in asn_ip for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Error in time_domain for scottrayy9.wixsite.com: No match for "SCOTTRAYY9.WIXSITE.COM".
+>>> Last update of whois database: 2025-12-03T18:04:04Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for scottrayy9.wixsite.com
+ERROR:root:Unexpected error in asn_ip for scottrayy9.wixsite.com
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for xiifaga.info: Whois command returned no output
+ERROR:root:Error downloading PhishTank data for xiifaga.info
+ERROR:root:Unexpected error in asn_ip for xiifaga.info
+ERROR:root:Error downloading PhishTank data for yupoofrance.ru
+ERROR:root:Unexpected error in asn_ip for yupoofrance.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-03T18:12:04Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Unexpected error in SSLfinal_State for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for 178.250.188.214
+ERROR:root:Unexpected error in pagerank_check for 178.250.188.214
+ERROR:root:Unexpected error in asn_ip for 178.250.188.214
+ERROR:root:Unexpected error in tls_ssl_certificate for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for bancobci.com.mx
+ERROR:root:Unexpected error in asn_ip for bancobci.com.mx
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error downloading PhishTank data for cliff.sunr1dge.ru
+ERROR:root:Unexpected error in asn_ip for cliff.sunr1dge.ru
+ERROR:root:Error downloading PhishTank data for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Unexpected error in asn_ip for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Error in time_domain for scottrayy9.wixsite.com: No match for "SCOTTRAYY9.WIXSITE.COM".
+>>> Last update of whois database: 2025-12-03T18:16:51Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for scottrayy9.wixsite.com
+ERROR:root:Unexpected error in asn_ip for scottrayy9.wixsite.com
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for xiifaga.info: Whois command returned no output
+ERROR:root:Error downloading PhishTank data for xiifaga.info
+ERROR:root:Unexpected error in asn_ip for xiifaga.info
+ERROR:root:Error downloading PhishTank data for yupoofrance.ru
+ERROR:root:Unexpected error in asn_ip for yupoofrance.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error fetching HTML for https://mail.ru: 'NoneType' object has no attribute 'strip'
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Unexpected error in SSLfinal_State for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for 178.250.188.214
+ERROR:root:Unexpected error in pagerank_check for 178.250.188.214
+ERROR:root:Unexpected error in asn_ip for 178.250.188.214
+ERROR:root:Unexpected error in tls_ssl_certificate for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for bancobci.com.mx
+ERROR:root:Unexpected error in asn_ip for bancobci.com.mx
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error fetching HTML for http://moonpay-login.my.canva.site: 404 Client Error: Not Found for url: https://moonpay-login.my.canva.site/
+ERROR:root:Error downloading PhishTank data for cliff.sunr1dge.ru
+ERROR:root:Unexpected error in asn_ip for cliff.sunr1dge.ru
+ERROR:root:Error fetching HTML for https://cliff.sunr1dge.ru/qmyik2jw: 403 Client Error: Forbidden for url: https://cliff.sunr1dge.ru/qmyik2jw
+ERROR:root:Error fetching HTML for http://mass.gov-xgz.bond/rmv: HTTPConnectionPool(host='mass.gov-xgz.bond', port=80): Max retries exceeded with url: /rmv (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x00000237157E58D0>: Failed to resolve 'mass.gov-xgz.bond' ([Errno 11001] getaddrinfo failed)"))
+ERROR:root:Error downloading PhishTank data for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Unexpected error in asn_ip for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Error in time_domain for scottrayy9.wixsite.com: No match for "SCOTTRAYY9.WIXSITE.COM".
+>>> Last update of whois database: 2025-12-03T18:24:41Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for scottrayy9.wixsite.com
+ERROR:root:Unexpected error in asn_ip for scottrayy9.wixsite.com
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for xiifaga.info: Whois command returned no output
+ERROR:root:Error downloading PhishTank data for xiifaga.info
+ERROR:root:Unexpected error in asn_ip for xiifaga.info
+ERROR:root:Error downloading PhishTank data for yupoofrance.ru
+ERROR:root:Unexpected error in asn_ip for yupoofrance.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Unexpected error in SSLfinal_State for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for 178.250.188.214
+ERROR:root:Unexpected error in pagerank_check for 178.250.188.214
+ERROR:root:Unexpected error in asn_ip for 178.250.188.214
+ERROR:root:Unexpected error in tls_ssl_certificate for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for bancobci.com.mx
+ERROR:root:Unexpected error in asn_ip for bancobci.com.mx
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error downloading PhishTank data for cliff.sunr1dge.ru
+ERROR:root:Unexpected error in asn_ip for cliff.sunr1dge.ru
+ERROR:root:Error downloading PhishTank data for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Unexpected error in asn_ip for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Error in time_domain for scottrayy9.wixsite.com: No match for "SCOTTRAYY9.WIXSITE.COM".
+>>> Last update of whois database: 2025-12-03T18:41:15Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for scottrayy9.wixsite.com
+ERROR:root:Unexpected error in asn_ip for scottrayy9.wixsite.com
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for xiifaga.info: Whois command returned no output
+ERROR:root:Error downloading PhishTank data for xiifaga.info
+ERROR:root:Unexpected error in asn_ip for xiifaga.info
+ERROR:root:Error downloading PhishTank data for yupoofrance.ru
+ERROR:root:Unexpected error in asn_ip for yupoofrance.ru
+ERROR:root:Error downloading PhishTank data for hotmart.com
+ERROR:root:Unexpected error in asn_ip for hotmart.com
+ERROR:root:Error downloading PhishTank data for hotmart.com
+ERROR:root:Unexpected error in asn_ip for hotmart.com
+ERROR:root:Error downloading PhishTank data for hotm.art
+ERROR:root:Unexpected error in asn_ip for hotm.art
+ERROR:root:Error downloading PhishTank data for suspensoes-receitafederal.com
+ERROR:root:Error downloading PhishTank data for bancobci.com.mx
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in SSLfinal_State for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for 178.250.188.214
+ERROR:root:Unexpected error in pagerank_check for 178.250.188.214
+ERROR:root:Unexpected error in asn_ip for 178.250.188.214
+ERROR:root:Unexpected error in tls_ssl_certificate for 178.250.188.214
+ERROR:root:Unexpected error in SSLfinal_State for teamc2.duckdns.org
+ERROR:root:Error in time_domain for teamc2.duckdns.org: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for teamc2.duckdns.org
+ERROR:root:Unexpected error in asn_ip for teamc2.duckdns.org
+ERROR:root:Unexpected error in SSLfinal_State for teamc2.duckdns.org
+ERROR:root:Error in time_domain for teamc2.duckdns.org: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for teamc2.duckdns.org
+ERROR:root:Unexpected error in asn_ip for teamc2.duckdns.org
+ERROR:root:Error downloading PhishTank data for cliff.sunr1dge.ru
+ERROR:root:Unexpected error in asn_ip for cliff.sunr1dge.ru
+ERROR:root:Unexpected error in SSLfinal_State for 151.242.30.13
+ERROR:root:Error in time_domain for 151.242.30.13: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 151.242.30.13
+ERROR:root:Unexpected error in pagerank_check for 151.242.30.13
+ERROR:root:Unexpected error in asn_ip for 151.242.30.13
+ERROR:root:Unexpected error in SSLfinal_State for 151.242.30.13
+ERROR:root:Error in time_domain for 151.242.30.13: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 151.242.30.13
+ERROR:root:Unexpected error in pagerank_check for 151.242.30.13
+ERROR:root:Unexpected error in asn_ip for 151.242.30.13
+ERROR:root:Unexpected error in SSLfinal_State for 62.151.0.175
+ERROR:root:Error downloading PhishTank data for 62.151.0.175
+ERROR:root:Unexpected error in pagerank_check for 62.151.0.175
+ERROR:root:Unexpected error in asn_ip for 62.151.0.175
+ERROR:root:Unexpected error in tls_ssl_certificate for 62.151.0.175
+ERROR:root:Error in time_domain for bank0106.duckdns.org: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for bank0106.duckdns.org
+ERROR:root:Unexpected error in asn_ip for bank0106.duckdns.org
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for dsourceva.com
+ERROR:root:Unexpected error in asn_ip for dsourceva.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Unexpected error in SSLfinal_State for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for 178.250.188.214
+ERROR:root:Unexpected error in pagerank_check for 178.250.188.214
+ERROR:root:Unexpected error in asn_ip for 178.250.188.214
+ERROR:root:Unexpected error in tls_ssl_certificate for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for hotm.art
+ERROR:root:Unexpected error in asn_ip for hotm.art
+ERROR:root:Unexpected error in SSLfinal_State for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for 178.250.188.214
+ERROR:root:Unexpected error in pagerank_check for 178.250.188.214
+ERROR:root:Unexpected error in asn_ip for 178.250.188.214
+ERROR:root:Unexpected error in tls_ssl_certificate for 178.250.188.214
+ERROR:root:Unexpected error in SSLfinal_State for teamc2.duckdns.org
+ERROR:root:Error in time_domain for teamc2.duckdns.org: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for teamc2.duckdns.org
+ERROR:root:Unexpected error in asn_ip for teamc2.duckdns.org
+ERROR:root:Unexpected error in SSLfinal_State for 151.242.30.13
+ERROR:root:Error in time_domain for 151.242.30.13: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 151.242.30.13
+ERROR:root:Unexpected error in pagerank_check for 151.242.30.13
+ERROR:root:Unexpected error in asn_ip for 151.242.30.13
+ERROR:root:Error downloading PhishTank data for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Unexpected error in asn_ip for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Unexpected error in SSLfinal_State for 62.151.0.175
+ERROR:root:Error downloading PhishTank data for 62.151.0.175
+ERROR:root:Unexpected error in pagerank_check for 62.151.0.175
+ERROR:root:Unexpected error in asn_ip for 62.151.0.175
+ERROR:root:Unexpected error in tls_ssl_certificate for 62.151.0.175
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Unexpected error in SSLfinal_State for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for 178.250.188.214
+ERROR:root:Unexpected error in pagerank_check for 178.250.188.214
+ERROR:root:Unexpected error in asn_ip for 178.250.188.214
+ERROR:root:Unexpected error in tls_ssl_certificate for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for hotm.art
+ERROR:root:Unexpected error in asn_ip for hotm.art
+ERROR:root:Unexpected error in SSLfinal_State for 178.250.188.214
+ERROR:root:Error downloading PhishTank data for 178.250.188.214
+ERROR:root:Unexpected error in pagerank_check for 178.250.188.214
+ERROR:root:Unexpected error in asn_ip for 178.250.188.214
+ERROR:root:Unexpected error in tls_ssl_certificate for 178.250.188.214
+ERROR:root:Unexpected error in SSLfinal_State for teamc2.duckdns.org
+ERROR:root:Error in time_domain for teamc2.duckdns.org: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for teamc2.duckdns.org
+ERROR:root:Unexpected error in asn_ip for teamc2.duckdns.org
+ERROR:root:Unexpected error in SSLfinal_State for 151.242.30.13
+ERROR:root:Error in time_domain for 151.242.30.13: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 151.242.30.13
+ERROR:root:Unexpected error in pagerank_check for 151.242.30.13
+ERROR:root:Unexpected error in asn_ip for 151.242.30.13
+ERROR:root:Error downloading PhishTank data for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Unexpected error in asn_ip for allegro.2p378dh2783js72d73.sbs
+ERROR:root:Unexpected error in SSLfinal_State for 62.151.0.175
+ERROR:root:Error downloading PhishTank data for 62.151.0.175
+ERROR:root:Unexpected error in pagerank_check for 62.151.0.175
+ERROR:root:Unexpected error in asn_ip for 62.151.0.175
+ERROR:root:Unexpected error in tls_ssl_certificate for 62.151.0.175
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for dsourceva.com
+ERROR:root:Unexpected error in asn_ip for dsourceva.com
+ERROR:whois.whois:Error trying to connect to socket: closing socket - timed out
+ERROR:root:Error downloading PhishTank data for yupoofrance.ru
+ERROR:root:Unexpected error in asn_ip for yupoofrance.ru
+ERROR:root:Error downloading PhishTank data for yandex.ru
+ERROR:root:Unexpected error in asn_ip for yandex.ru
+ERROR:root:Error downloading PhishTank data for vk.com
+ERROR:root:Unexpected error in asn_ip for vk.com
+ERROR:root:Error downloading PhishTank data for ok.ru
+ERROR:root:Unexpected error in asn_ip for ok.ru
+ERROR:root:Error downloading PhishTank data for mail.ru
+ERROR:root:Unexpected error in asn_ip for mail.ru
+ERROR:root:Error downloading PhishTank data for google.ru
+ERROR:root:Unexpected error in asn_ip for google.ru
+ERROR:root:Error downloading PhishTank data for kinopoisk.ru
+ERROR:root:Unexpected error in asn_ip for kinopoisk.ru
+ERROR:root:Error downloading PhishTank data for aliexpress.ru
+ERROR:root:Unexpected error in asn_ip for aliexpress.ru
+ERROR:root:Error downloading PhishTank data for sberbank.ru
+ERROR:root:Unexpected error in asn_ip for sberbank.ru
+ERROR:root:Error downloading PhishTank data for rambler.ru
+ERROR:root:Unexpected error in asn_ip for rambler.ru
+ERROR:root:Error downloading PhishTank data for ivi.ru
+ERROR:root:Unexpected error in asn_ip for ivi.ru
+ERROR:root:Error in time_domain for freeflow25.myshopify.com: No match for "FREEFLOW25.MYSHOPIFY.COM".
+>>> Last update of whois database: 2025-12-03T19:26:51Z <<<
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+
+ERROR:root:Error downloading PhishTank data for freeflow25.myshopify.com
+ERROR:root:Unexpected error in asn_ip for freeflow25.myshopify.com
+ERROR:root:Error downloading PhishTank data for 110.37.6.176
+ERROR:root:Unexpected error in pagerank_check for 110.37.6.176
+ERROR:root:Unexpected error in asn_ip for 110.37.6.176
+ERROR:root:Error downloading PhishTank data for moonpay-login.my.canva.site
+ERROR:root:Unexpected error in asn_ip for moonpay-login.my.canva.site
+ERROR:root:Error downloading PhishTank data for 365internacional.webcindario.com
+ERROR:root:Unexpected error in asn_ip for 365internacional.webcindario.com
+ERROR:root:Error in time_domain for 123.190.191.43: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 123.190.191.43
+ERROR:root:Unexpected error in pagerank_check for 123.190.191.43
+ERROR:root:Unexpected error in asn_ip for 123.190.191.43
+ERROR:root:Error downloading PhishTank data for zonemaxs.vip
+ERROR:root:Unexpected error in asn_ip for zonemaxs.vip
+ERROR:root:Error in time_domain for 64.112.42.225: 'NoneType' object has no attribute 'replace'
+ERROR:root:Error downloading PhishTank data for 64.112.42.225
+ERROR:root:Unexpected error in pagerank_check for 64.112.42.225
+ERROR:root:Unexpected error in asn_ip for 64.112.42.225
